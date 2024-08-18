@@ -1,4 +1,4 @@
-- 👋 Hello,I Am Gaurav Abhangrao
+- 👋 Hello,I Am Gaurav Anil Abhangrao
 - 👀 I’m interested in Data Science-Python
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ML and DS technologies
